@@ -1,1 +1,1 @@
-# cis201-rectangle-example
+# cis201-ccc-template
